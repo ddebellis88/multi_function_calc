@@ -135,5 +135,5 @@ end
 #
 #
 else
-  print "Goodbye"
+print "Goodbye, have a good day"
 end
